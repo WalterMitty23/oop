@@ -25,6 +25,8 @@ public class Main {
         Slytherin Gregory
                 = new Slytherin("Грегори Гойл ",22,7,5,9,3,1,7);
 
+
+
         System.out.println(Harry);
         Harry.compareHogwarts(Hermione);
         Draco.compareHogwarts(Graham);
